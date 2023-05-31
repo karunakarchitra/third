@@ -1,2 +1,2 @@
-hi welcome to git 
-verstion control system
+git is a tool
+github is a server
